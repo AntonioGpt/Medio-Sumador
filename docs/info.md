@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit is a Half Adder. It adds two binary inputs, A and B. It uses an XOR gate to calculate the Sum (S) and an AND gate to calculate the Carry (C).
 
 ## How to test
 
-Explain how to use your project
+Move the input switches to change the values of A and B. The display shows the results: Sum (S) and Carry (C). Test all four possible input combinations to verify that the circuit works correctly.
 
 ## External hardware
 
